@@ -6,13 +6,6 @@
 			"label": "C/C++: g++.exe build active file",
 			"command": "C:\\msys64\\mingw64\\bin\\g++.exe",
 			"args": [
-				"-I",
-				"${workspacefolder}\\dependencies\\include\\GLFW",
-				"-I",
-				"${workspacefolder}\\dependencies\\include\\glm",
-				"-I",
-				"${workspacefolder}\\dependencies\\include\\vulkan",
-				"-fdiagnostics-color=always",
 				"-g",
 				"${file}",
 				"-o",
