@@ -21,7 +21,7 @@ int main() {
 
     glm::mat4 matrix;
     glm::vec4 vec;
-    auto test = matrix * vec;ource setup-env.sh
+    auto test = matrix * vec;
 
     while(!glfwWindowShouldClose(window)) {
         glfwPollEvents();
