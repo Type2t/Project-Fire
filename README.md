@@ -1,1 +1,3 @@
-# Project-Fire is a in progress game idea
+# Project-Fire
+
+in progress game idea
